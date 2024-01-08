@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "582642237743",
+    "firebase_url": "https://car-park-a14e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "car-park-a14e2",
+    "storage_bucket": "car-park-a14e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582642237743:android:b9b6ac2486d927124221da",
+        "android_client_info": {
+          "package_name": "com.example.car_park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-kNLQn_H8Z6bpSlADtrSRGFdi_dbPn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
