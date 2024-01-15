@@ -94,7 +94,7 @@ Container signInSignUpButton(
             if (states.contains(MaterialState.pressed)) {
               return Colors.black26;
             }
-            return Color(0xff9b1616);
+            return Color(0xff130f40);
           }),
           shape: MaterialStateProperty.all<RoundedRectangleBorder>(
               RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)))),

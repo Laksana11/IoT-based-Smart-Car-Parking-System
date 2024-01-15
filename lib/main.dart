@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      home: Signup(),
+      home: Login(),
     );
   }
 }
